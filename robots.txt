@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://montecristo.webart.work/sitemap.xml
+Sitemap: https://montecristo.hotelup.work/sitemap.xml
